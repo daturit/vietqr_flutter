@@ -1,0 +1,22 @@
+name: vietqr_flutter
+description: "A new Flutter package project."
+version: 0.0.1
+homepage:
+publish_to: pub.dev
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+
+
