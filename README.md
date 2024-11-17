@@ -23,7 +23,9 @@ generatorQR(
 
 ## Demo QR:
 
-
+<p>
+<img src = "https://github.com/daturit/vietqr_flutter/blob/master/demoQr.png?raw=true" align = "center" height = "550px"/>
+</p>
 
 ## Commemoration
 
