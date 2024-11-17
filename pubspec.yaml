@@ -1,8 +1,7 @@
 name: vietqr_flutter
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
-publish_to: pub.dev
+description: "Generator VietQR not using api."
+version: 1.0.0
+homepage: https://github.com/daturit/vietqr_flutter
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
