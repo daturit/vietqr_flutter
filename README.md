@@ -1,5 +1,7 @@
 # vietqr_flutter
 
+## Generator VietQR not using api. [VietQR Doc](https://vietqr.net/portal-service/download/documents/QR_Format_T&C_v1.0_VN_092021.pdf)
+
 ## Getting Started
 
 Basic usage, get qrCode:
