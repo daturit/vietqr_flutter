@@ -1,6 +1,6 @@
 name: vietqr_flutter
-description: "Generator VietQR not using api."
-version: 1.0.0
+description: "This tool allows you to generate VietQR codes locally without relying on any external APIs. It’s ideal for applications that require offline functionality, enhanced data privacy, or reduced latency. By using a built-in QR code generation library and following the VietQR specification, you can generate QR codes for payments that include banking information such as bank code, account number, account name, and transfer amount. This approach gives you full control over how the data is handled and eliminates dependencies on third-party services."
+version: 1.0.1
 homepage: https://github.com/daturit/vietqr_flutter
 
 environment:
